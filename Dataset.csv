@@ -1,0 +1,21 @@
+﻿Airline,Description,Destination,Count of Flights
+Alaska,ontime,Los Angeles,497
+Alaska,ontime,Phoenix,221
+Alaska,ontime,San Diego,212
+Alaska,ontime,San Francisco,503
+Alaska,ontime,Seattle,1841
+Alaska,delayed,Los Angeles,62
+Alaska,delayed,Phoenix,12
+Alaska,delayed,San Diego,20
+Alaska,delayed,San Francisco,102
+Alaska,delayed,Seattle,305
+AmWest,ontime,Los Angeles,694
+AmWest,ontime,Phoenix,4840
+AmWest,ontime,San Diego,383
+AmWest,ontime,San Francisco,320
+AmWest,ontime,Seattle,201
+AmWest,delayed,Los Angeles,117
+AmWest,delayed,Phoenix,415
+AmWest,delayed,San Diego,65
+AmWest,delayed,San Francisco,129
+AmWest,delayed,Seattle,61
